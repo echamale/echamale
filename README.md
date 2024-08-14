@@ -33,7 +33,7 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/echamale/echamale/output/snake.svg](https://raw.githubusercontent.com/echamale-2022222/echamale-2022222/25a980db9642616f847b9b5b2c15e632d9160389/assets/github-snake.svg)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/echamale/echamale/output/snake.svg](https://raw.githubusercontent.com/echamale-2022222/echamale-2022222/25a980db9642616f847b9b5b2c15e632d9160389/assets/github-snake.svg" alt="Snake animation" />
 
 ###
 
