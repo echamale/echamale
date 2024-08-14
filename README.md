@@ -11,12 +11,18 @@
   <a href="https://www.instagram.com/chama_18_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
+  <a href="https://www.facebook.com/ch.gonzalezz?mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
+  </a>
   <a href="https://api.whatsapp.com/send?phone=50247968665" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="25" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  <a href="mailto:echamale-2022222@kinal.edu.gt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="25" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="mailto:echamale018@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -24,6 +30,10 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=echamale.echamale&"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/echamale/echamale/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -126,5 +136,20 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=echamale&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=echamale&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=echamale&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">🎮 When I'm AFK:</h3>
+
+###
+
+<p align="left">😆 Hobbies: I enjoy playing Clash Royale, Counter Strike, and watching movies and series.</p>
 
 ###
