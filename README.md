@@ -37,24 +37,22 @@
   <img src="https://raw.githubusercontent.com/echamale-2022222/echamale-2022222/25a980db9642616f847b9b5b2c15e632d9160389/assets/github-snake.svg" alt="Snake animation" />
 </div>
 
-
 ###
 
 <h1 align="center">Hey there! 👋</h1>
 
 
-
 <h2 align="center">👩‍💻  About Me</h2>
 
-###
+
 
 <p align="left">I'm Edwar Chamalé from Guatemala 🇬🇹<br><br>🔭 I’m currently doing supervised internships, diving deep into the world of programming and hands-on projects.<br>📚 I'm currently learning Java + Spring Boot for backend development, Networking in AWS, Node.js, Next.js, and React. Always excited to explore new technologies!<br>⚡ In my free time, I enjoy watching videos on TikTok 🎥 and listening to great music 🎵. I’m passionate about programming and fascinated by what I can create with my knowledge and skills.<br><br>Feel free to connect with me if you want to chat about tech, collaborate on a project, or just share some cool programming insights!</p>
 
 ###
 
-<h3 align="left">💻 My Tech Stack:</h3>
+<h3 align="left">💻   My Tech Stack:</h3>
+<hr>
 
-###
 
 <h4 align="left">Frontend Development</h4>
 
@@ -74,11 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
-
 <h4 align="left">Backend Development</h4>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
@@ -133,8 +127,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
+<hr>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=echamale&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -149,10 +142,35 @@
 
 ###
 
-<h3 align="left">🎮 When I'm AFK:</h3>
-
-###
+<h3 align="left">🎮    When I'm AFK:</h3>
+<hr>
 
 <p align="left">😆 Hobbies: I enjoy playing Clash Royale, Counter Strike, and watching movies and series.</p>
 
+
 ###
+
+<h3 align="left">🎓  Education :</h3>
+<hr>
+
+<table style="border-color: white;">
+  <tr>
+    <td style="padding: 0; border: none;">
+      <div>
+        <h3>Technical Expert in Computing (Computer Science)</h3>
+        <p style="color: #58a6ff;">Centro Educativo Técnico Laboral Kinal<br>2022 - 2024</p>
+        <p style="color: #c9d1d9;">
+          Development of applications with Java SE and Java EE; management of relational databases like MySQL and non-relational databases like MongoDB; IT Essentials and networking; creation of RESTful APIs with Node.js and Express, as well as the development of frontend interfaces using React.
+        </p>
+      </div>
+    </td>
+    <td style="padding: 0; border: none;">
+      <img src="https://github.com/echamale/echamale/blob/main/kinal.jpg?raw=true" style="width: 600px; border-radius: 10px;">
+    </td>
+  </tr>
+</table>
+
+
+
+
+
