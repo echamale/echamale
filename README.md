@@ -157,7 +157,7 @@
   <tr>
     <td style="padding: 0; border: none;">
       <div>
-        <h3>Technical Expert in Computing (Computer Science)</h3>
+        <h3>Perito Técnico en Computación (Informática)</h3>
         <p style="color: #58a6ff;">Centro Educativo Técnico Laboral Kinal<br>2022 - 2024</p>
         <p style="color: #c9d1d9;">
           Development of applications with Java SE and Java EE; management of relational databases like MySQL and non-relational databases like MongoDB; IT Essentials and networking; creation of RESTful APIs with Node.js and Express, as well as the development of frontend interfaces using React.
