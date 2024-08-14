@@ -33,13 +33,16 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/echamale/echamale/output/snake.svg](https://raw.githubusercontent.com/echamale-2022222/echamale-2022222/25a980db9642616f847b9b5b2c15e632d9160389/assets/github-snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/echamale-2022222/echamale-2022222/25a980db9642616f847b9b5b2c15e632d9160389/assets/github-snake.svg" alt="Snake animation" />
+</div>
+
 
 ###
 
 <h1 align="center">Hey there! 👋</h1>
 
-###
+
 
 <h2 align="center">👩‍💻  About Me</h2>
 
