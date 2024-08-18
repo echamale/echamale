@@ -119,9 +119,35 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img src="https://svgl.app/library/vscode.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+</div>
+
+###
+
+<h4 align="left">Programming Languages</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<h4 align="left">Deployments</h4>
+
+###
+
+<div align="left">
+  <img src="https://svgl.app/library/firebase.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://svgl.app/library/vercel_dark.svg" height="40" alt="vercel logo"  />
 </div>
 
 ###
