@@ -209,7 +209,6 @@
         <li>Get Connected | Cisco, 2022</li>
         <li>IT Essentials: PC Hardware and Software | Cisco, 2023</li>
         <li>Java Backend Spring Boot Developer Mid Level | ADA SCHOOL, Actualmente cursando</li>
-        <li>Networking en AWS	| USAC (Cursos libres), Actualmente cursando</li>
     </ul>
 
 
